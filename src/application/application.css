@@ -1,0 +1,19 @@
+.root{
+	-fx-background-color: #00336A;
+	-fx-color: #F2F2F2;
+}
+
+#lower-pane{
+	-fx-background-color: #001224;
+	-fx-color: #F2F2F2;
+}
+
+GridPane{
+	-fx-background-color: #6868FF;
+	-fx-color: #F2F2F2;
+}
+
+.grey-bg{
+	-fx-control-inner-background: #BBBBBB;
+}
+
