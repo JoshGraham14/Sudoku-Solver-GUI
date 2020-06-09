@@ -28,7 +28,9 @@ There are a few things that you are going to need to edit within eclipse to get 
 - Click in the box under "VM Arguments"
 - paste this into the box `--module-path C:\javafx-sdk-14\lib --add-modules=javafx.controls,javafx.fxml`
   - You will most likely need to edit the path in this line depending on where you installed JavaFX
-
+- Click "Apply"
+- Click "OK"
+- You can now close all windows other than the main eclipse window
 ## You should now be able to run The Sudoku Solving program properly
 
 When running the program, you start by filling in the Sudoku board with the numbers that are supplied for the game.
